@@ -1,0 +1,6 @@
+python
+flask
+flask-sqlalchmey
+flask-restful
+sqlite3
+jsonify
