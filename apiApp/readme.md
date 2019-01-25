@@ -1,9 +1,9 @@
-ABOUT APIs
-- Standard method to expose databases to clients
-- REST == REpresentational State Transfer
-- REST > SOAP
-	- Uses less bandwidth
-	- SOAP requires server program
+ABOUT THIS APP
+
+Using a REpresentational State Transfer Application Programming Interface (**'REST API'**), which is the standard method to expose databases to clients, I access
+
+If you get the warning to not use the development server in a production environment run the command 
+	> export FLASK_ENV=development.
 
 REST Options
 	- GET
@@ -13,5 +13,4 @@ REST Options
 
 Resources:
 - Sagar Chand Agarwal's [Building a Basic RestFul API in Python](https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq)
-- [Flask issue resolution](https://stackoverflow.com/questions/51025893/flask-at-first-run-do-not-use-the-development-server-in-a-production-environmen?rq=1)
 - [Data](http://www.sqlitetutorial.net/sqlite-sample-database/)
