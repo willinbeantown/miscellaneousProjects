@@ -5,14 +5,6 @@ ABOUT APIs
 	- Uses less bandwidth
 	- SOAP requires server program
 
-requirements.txt
-	python
-	flask
-	flask-sqlalchmey
-	flask-restful
-	sqlite3
-	jsonify
-
 REST Options
 	- GET
 	- PUT
@@ -20,4 +12,5 @@ REST Options
 	- DELETE
 
 Resources:
-https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq
+Sagar Chand Agarwal's [Building a Basic RestFul API in Python](https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq)
+[Flask issue resolution](https://stackoverflow.com/questions/51025893/flask-at-first-run-do-not-use-the-development-server-in-a-production-environmen?rq=1)
